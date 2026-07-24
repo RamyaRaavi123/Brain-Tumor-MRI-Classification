@@ -92,7 +92,7 @@ Make sure you have Python 3.11+ and Node.js 18+ installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/RamaVenkataCharan/Brain-Tumor-MRI-Classification.git
+git clone https://github.com/RamyaRaavi123/Brain-Tumor-MRI-Classification.git
 cd Brain-Tumor-MRI-Classification
 
 # Setup Python Virtual Environment
